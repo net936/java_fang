@@ -11,10 +11,6 @@
 演示地址：[https://fang.gitapp.cn](https://fang.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/java_fang
-
 
 ## 主要功能
 
